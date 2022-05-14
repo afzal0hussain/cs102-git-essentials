@@ -1,0 +1,5 @@
+git --version (It shows version)
+git add file_name.extension (It adds file from local repo to repo)
+git status (It shows current status of repo)
+git commit -m "type a message to name the changes" (When we use this the file/folder is stored permanently in the git repo)
+git push origin main (after commiting we can push the file/folder to the server repo by this command)
